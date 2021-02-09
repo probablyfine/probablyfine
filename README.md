@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 * Please consider donating to a local [mutual aid fund](https://www.pittsburghmutualaid.com/) or [bail fund](https://www.bukitbailfund.org/home)
-* Learn about [organizing](https://www.youtube.com/watch?v=mWKygyFir54) and consider [forming a union](https://www.federationoftechworkers.org/) at your workplace.
+* Learn about [organizing](https://www.youtube.com/watch?v=mWKygyFir54) and talk to your colleagues about [forming a union](https://www.federationoftechworkers.org/) at your workplace.
